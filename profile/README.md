@@ -37,6 +37,15 @@ Before we can trust agents to drive themselves, we need a dashboard.
 > [![crates.io](https://img.shields.io/crates/v/agtrace.svg?style=flat-square)](https://crates.io/crates/agtrace)
 > [![npm](https://img.shields.io/npm/v/@lanegrid/agtrace.svg?style=flat-square)](https://www.npmjs.com/package/@lanegrid/agtrace)
 
+#### 2. Workflow & Automation
+Agents need structured, type-safe workflows to operate reliably.
+
+> **📦 [git-workflow](https://github.com/lanegrid/git-workflow)**
+> **Type-safe Git Workflow for Agentic Development.**
+> A CLI tool (`gw`) providing worktree-aware git operations with GitHub integration and smart next-action suggestions.
+>
+> [![crates.io](https://img.shields.io/crates/v/git-workflow.svg?style=flat-square)](https://crates.io/crates/git-workflow)
+
 <br>
 
 ### 🧭 Our Philosophy
